@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-10T18:21:42.738-0300</date>
+  <logger>SERGIO GUSTAVO DE ANDRADE GRILO</logger>
+  <level>FINE</level>
+  <message>File 122110386-SERGIO GUSTAVO DE ANDRADE GRILO.zip was received. It was sent by SERGIO GUSTAVO DE ANDRADE GRILO from IP 192.168.1.12 at 10-10-2023 18*21*42</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-10T18:23:11.768-0300</date>
+  <logger>SERGIO GUSTAVO DE ANDRADE GRILO</logger>
+  <level>FINE</level>
+  <message>File 122110386-SERGIO GUSTAVO DE ANDRADE GRILO.zip was received. It was sent by SERGIO GUSTAVO DE ANDRADE GRILO from IP 192.168.1.12 at 10-10-2023 18*23*11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-10T22:09:35.974-0300</date>
+  <logger>SERGIO GUSTAVO DE ANDRADE GRILO</logger>
+  <level>FINE</level>
+  <message>File 122110386-SERGIO GUSTAVO DE ANDRADE GRILO.zip was received. It was sent by SERGIO GUSTAVO DE ANDRADE GRILO from IP 192.168.1.12 at 10-10-2023 22*09*35</message>
+</record>
